@@ -142,7 +142,7 @@ main{
     display: flex;
     flex-direction: column;
     color: var(--clr-Very-dark-violet);
-    gap: 1rem;
+    gap: 1.6rem;
 }
 @media (width < 1000px){
     .user-input{
@@ -152,7 +152,7 @@ main{
 .input{
     display: flex;
     flex-direction: column;
-    gap: .2rem;
+    gap: .5rem;
 }
 .input-field{
     height: 40px;
